@@ -1,6 +1,8 @@
 Save My Eyes
 ===========
 
+THIS APPLICATION IS FOR WINDOWS OS
+
 A simple software which can reduce stress on eyes.
 It simply works like this : turns off you screen in every X seconds.
 
